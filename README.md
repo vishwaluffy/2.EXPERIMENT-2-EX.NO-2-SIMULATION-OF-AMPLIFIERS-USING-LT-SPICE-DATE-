@@ -63,7 +63,7 @@ DATE:
 ---
 4.## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
 
-![Uploading WhatsApp Image 2025-12-04 at 11.45.04_18352881.jpg…]()
+![WhatsApp Image 2025-12-04 at 11 45 04_50012ee8](https://github.com/user-attachments/assets/b53fa622-351f-4c95-a62f-5ec5018544ca)
 
 ---
 
