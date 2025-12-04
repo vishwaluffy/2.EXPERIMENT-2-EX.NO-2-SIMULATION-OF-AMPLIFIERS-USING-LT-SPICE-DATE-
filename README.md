@@ -63,14 +63,14 @@ DATE:
 ---
 4.## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
 
-![Uploading WhatsApp Image 2025-11-30 at 16.51.23_9aab35ef.jpg…]()
+![Uploading WhatsApp Image 2025-12-04 at 11.45.04_18352881.jpg…]()
 
 ---
 
 
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![Uploading WhatsApp Image 2025-11-30 at 16.52.08_c0ebafa6.jpg…]()
+![WhatsApp Image 2025-11-30 at 16 52 08_b98923bd](https://github.com/user-attachments/assets/365106de-23a4-49ff-a999-9df640f4d7eb)
 
 <img width="692" height="330" alt="Screenshot 2025-12-03 152257" src="https://github.com/user-attachments/assets/c5acfc75-3ed3-4c2b-bffa-6e1571cb46dd" />
 
